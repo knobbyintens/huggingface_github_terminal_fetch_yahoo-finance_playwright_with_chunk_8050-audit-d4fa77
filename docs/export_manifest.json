@@ -1,0 +1,19 @@
+{
+  "batch": "math-exports-2025-11",
+  "exports": [
+    {
+      "file": "exports/eval_mathmix_1k.jsonl",
+      "records": 60,
+      "source_fingerprint": "FP-7891",
+      "ingest_tool": "atlas-export/2.3"
+    },
+    {
+      "file": "exports/vendor_mathgen_500.jsonl",
+      "records": 54,
+      "source_fingerprint": "FP-6521",
+      "ingest_tool": "atlas-export/2.3"
+    }
+  ],
+  "registry_snapshot": "registry/atlas_governance_archive.html",
+  "clearance_policy": "compliance/license_clearance.json must record the registered license id, the current vendor terms revision, and the verbatim attribution notice."
+}
